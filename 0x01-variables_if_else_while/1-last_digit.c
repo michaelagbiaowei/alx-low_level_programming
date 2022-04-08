@@ -4,7 +4,7 @@
 /*
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: 0 printing the function
  */
 int main(void)
 {int n;
