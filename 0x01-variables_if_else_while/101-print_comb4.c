@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
  * main - Entry point
  *
@@ -9,8 +10,7 @@ int main(void)
 {
 	int c;
 	int d;
-	int e = 0;
-	
+	int e = 0;	
 	while (e < 10)
 	{
 		d = 0;
