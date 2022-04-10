@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 /**
- * main - main block
+ * main - Entry point
  *
- * Description: Write a program that prints all possible
- * different combinations of two digits
- * Return: 0
+ * Return: Always 0
  */
 int main(void)
 {
 	int c = 0;
-
 	int f_d;
 	int l_d;
 	int c2;
