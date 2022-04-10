@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main -  main function
- * Description: task 2
- * Return: 0 always (Success)
+ *
+ * Description: prints the last digit of the number stored in the variable n
+ * if the last digit is greater than 5, is 0, or less than 6 and not 0.
+ * Return: 0
  */
 int main(void)
 {
