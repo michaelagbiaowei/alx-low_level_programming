@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * main - main block
  *
@@ -11,6 +10,7 @@
 int main(void)
 {
 	int c = 0;
+
 	int f_d;
 	int l_d;
 	int c2;
