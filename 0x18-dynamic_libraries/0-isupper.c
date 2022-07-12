@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * Auth: Gbemi Jacob Adebayo
+ * Author: Agbiaowei Michael Ifiekemi
  */
 
 /**
